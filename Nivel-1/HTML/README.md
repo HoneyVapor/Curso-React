@@ -134,7 +134,7 @@ Aquí te presento algunas de las etiquetas HTML más comunes que se utilizan en 
    - `<form></form>`: Define un formulario HTML para entrada del usuario.
    - `<input>`: Define un campo de entrada controlado por el usuario.
 
-Estas son solo algunas de las etiquetas **HTML** más comunes. Existen muchas más que puedes explorar para desarrollar sitios web más complejos y funcionales. Aquí un ejemplo en código y su resultado:
+Estas son solo algunas de las etiquetas **HTML** más comunes. Existen muchas más que puedes explorar para desarrollar sitios web más complejos y funcionales. Si te interesa profundizar mas en las etiquetas HTML, haz click en el <a href="https://developer.mozilla.org/es/docs/Web/HTML">enlace</a>. Aquí un ejemplo en código y su resultado:
 
 ```html
 <!DOCTYPE html>
@@ -232,6 +232,8 @@ Algunos de los atributos más comunes son:
 - **Atributos globales y particulares:**
   - `title`. Este atributo proporciona un título a un elemento **proporcionando información** sobre el mismo. No todos los elementos pueden usar este atributo, un caso común sería usarlo en un hipervínculo.
   - `src`. En este caso, este atributo se usa para imagenes, para indicar **la ruta** de la imagen.
+
+Si te interesa profundizar mas en los atributos y ampliar la lista, haz click <a href="https://developer.mozilla.org/es/docs/Web/HTML/Attributes">aqui.</a>
 
 ## Crear una página web básica
 
